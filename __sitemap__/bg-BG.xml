@@ -10,91 +10,19 @@
         <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg" hreflang="bg-BG" />
         <image:image>
-            <image:loc>https://avatars.githubusercontent.com/u/71938701?v=4</image:loc>
+            <image:loc>https://vazrazhdane.eu/_ipx/w_96/kostya.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://vercel.com/button</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://vazrazhdane.eu/bg/about</loc>
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/about" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/about" hreflang="bg-BG" />
-        <image:image>
-            <image:loc>https://avatars.githubusercontent.com/u/71938701?v=4</image:loc>
+            <image:loc>https://vazrazhdane.eu/_ipx/w_96/logo.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://vazrazhdane.eu/bg/contact</loc>
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/contact" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/contact" hreflang="bg-BG" />
-    </url>
-    <url>
-        <loc>https://vazrazhdane.eu/bg/works</loc>
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/works" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/works" hreflang="bg-BG" />
+        <loc>https://vazrazhdane.eu/bg/program</loc>
+        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/program" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/program" hreflang="bg-BG" />
         <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/projects/canvas.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/projects/helpr.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/projects/hr-folio.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/projects/maison-hochard.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/projects/mockline.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/projects/nuxtlog.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/projects/shelve.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://vazrazhdane.eu/bg/writing</loc>
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/writing" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/writing" hreflang="bg-BG" />
-        <image:image>
-            <image:loc>https://canvas.hrcd.fr/articles/5-raycast-snippets.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://canvas.hrcd.fr/articles/launch-your-porfolio.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://canvas.hrcd.fr/articles/trap-of-perfection.jpg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://vazrazhdane.eu/bg/articles/5-amazing-raycast-nuxt-snippets</loc>
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/articles/5-amazing-raycast-nuxt-snippets" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/articles/5-amazing-raycast-nuxt-snippets" hreflang="bg-BG" />
-        <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/articles/5-raycast-snippets.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/articles/snippets-exemple.gif</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://vazrazhdane.eu/bg/articles/launch-your-portfolio</loc>
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/articles/launch-your-portfolio" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/articles/launch-your-portfolio" hreflang="bg-BG" />
-        <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/articles/launch-your-porfolio.jpg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://vazrazhdane.eu/bg/articles/not-an-impostor</loc>
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/articles/not-an-impostor" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://vazrazhdane.eu/bg/articles/not-an-impostor" hreflang="bg-BG" />
-        <image:image>
-            <image:loc>https://vazrazhdane.eu/_ipx/_/articles/trap-of-perfection.jpg</image:loc>
+            <image:loc>https://vazrazhdane.eu/_ipx/w_96/logo.png</image:loc>
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.2 at 2025-07-07T00:35:32.020Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.2 at 2025-07-07T02:11:15.930Z -->

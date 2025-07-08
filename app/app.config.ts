@@ -18,7 +18,7 @@ export default defineAppConfig({
     spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
   },
   seo: {
-    title: 'Възраждане Европа',
+    title: 'Възраждане - Европа',
     description: 'Битката за Европа е последната битка за България!',
     url: 'https://vazrazhdane.eu',
     image: '/og.jpg',

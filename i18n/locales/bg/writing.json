@@ -1,0 +1,17 @@
+{
+  "title": "Writing",
+  "description": "A collection of my writing",
+  "empty": "No writing yet, check back soon!",
+  "not_found" : "No writing found",
+  "not_found_description" : "Не успяхме да намерим статията, която търсите.",
+  "back_link" : "Back to writing",
+  "readingTimeSingle" : "минутa за четене",
+  "readingTime" : "минути за четене",
+  "share" : "Сподели статията",
+  "copy_link" : "Copy link",
+  "search_article" : "Search article",
+  "blog" : "Blog",
+  "unknown_author" : "Unknown author",
+  "show_search" : "Search",
+  "hide_search" : "Hide search"
+}
